@@ -3,8 +3,7 @@ Speech Recognition on edge using CMU Sphinx and on cloud using Google Cloud Spee
 
 Here is the code for Speech Recognition using Sphinx and Google Cloud Speech API with input from micorphone. it's needed a microphone to provide audio input to the program. 
 
-# Dependencies
-- Install Ubuntu 16.04, https://www.ubuntu.com/download/desktop
+# Environment/ Install packages
 - Install Python 2.7.14, https://www.python.org/downloads/
 - PyAdudio package,  `$ pip install pyaudio`
 - Pocketsphinx package, `$ pip install pocketsphinx`  
