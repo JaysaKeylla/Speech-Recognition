@@ -16,7 +16,7 @@ Replace PATH_TO_KEY_FILE with the path to your JSON service account file. GOOGLE
 If Speech Recognition package fails, try `$ sudo apt-get install python-dev libxml2-dev libxslt1-dev zlib1g-dev` and `$ sudo apt-get install libpulse-dev`
 
 # Usage
-Run following code in the terminal,
+Run following code in the terminal
 
 speech_recognition_sphinx_gcp.py
 
