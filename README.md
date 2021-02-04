@@ -22,5 +22,5 @@ If Speech Recognition package fails, try `$ sudo apt-get install python-dev libx
 # Usage
 Run following code in the terminal,
 
-`speech_recognition_sphinx_gcp.py`
+`python speech_recognition_sphinx_gcp.py`
 
