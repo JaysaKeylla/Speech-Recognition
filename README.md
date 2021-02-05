@@ -7,7 +7,7 @@ Here is the code for Speech Recognition using Sphinx and Google Cloud Speech API
 - Install Python 2.7.14, https://www.python.org/downloads/
 - Speech recognition, `$ pip install SpeechRecognition`
 - PyAdudio package,  `$ pip install pyaudio`
-- Pocketsphinx package, `$ sudo apt-get install python3 python3-all-dev python3-pip build-essential swig git libpulse-dev` and `$ pip3 install pocketsphinx`  
+- Pocketsphinx package, `$ pip install pocketsphinx`  
 
 - Install Google Speech API client, `$ pip install --upgrade google-cloud-speech`
 - Authenticating to the Cloud Speech API, `$ export GOOGLE_APPLICATION_CREDENTIALS=PATH_TO_KEY_FILE`, https://cloud.google.com/speech/docs/auth#using_a_service_account
